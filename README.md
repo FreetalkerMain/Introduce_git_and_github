@@ -1,14 +1,14 @@
 # 1 導入  
 ## 1-1 GitHubアカウント作成  
-### 1-1-1 GitHub登録リンクへ飛ぶ
-https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home  
-### 1-1-2,メール入力
-・「Enter your email」の下にメールアドレスを入力し、エンター
-### 1-1-3 「Create a password」
-・登録したいパスワードを入力し、エンター
-### 1-1-4 ユーザ名の登録
+1-1-1 GitHub登録リンクへ飛ぶ 
+ ・https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home  
+1-1-2,メール入力  
+・「Enter your email」の下にメールアドレスを入力し、エンター  
+1-1-3 「Create a password」  
+・登録したいパスワードを入力し、エンター  
+1-1-4 ユーザ名の登録  
 ・「Enter a username」の下にユーザ名を入力して、エンター
-### 1-1-5 認証
+1-1-5 認証  
 ・「Would you like to receive product updates and announcements via email?Type "y" for yes or "n" for no」指示に従って選択し入力。
 ・nの場合googleのロボット入力防止検証プログラムをこなす。
 
